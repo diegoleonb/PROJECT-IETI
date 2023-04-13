@@ -1,9 +1,10 @@
+import { Menu } from './components/Menu';
 
 function App() {
 
   return (
     <div className="App">
-      <h1>Reservas</h1>
+      <Menu/>
     </div>
   )
 };
